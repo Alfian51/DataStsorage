@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Brand / Primary (Indigo Modern) -->
+    <color name="primary">#4F46E5</color>
+    <color name="primary_dark">#3730A3</color>
+    <color name="primary_container">#EEF2FF</color>
+    <color name="on_primary_container">#312E81</color>
+
+    <!-- Secondary (Teal / Sky) -->
+    <color name="secondary">#0EA5E9</color>
+    <color name="secondary_container">#E0F2FE</color>
+    <color name="on_secondary_container">#0369A1</color>
+
+    <!-- Accent & Status -->
+    <color name="success">#10B981</color>
+    <color name="success_container">#D1FAE5</color>
+    <color name="on_success_container">#065F46</color>
+
+    <color name="danger">#EF4444</color>
+    <color name="danger_dark">#DC2626</color>
+    <color name="danger_container">#FEE2E2</color>
+    <color name="on_danger_container">#991B1B</color>
+
+    <color name="warning">#F59E0B</color>
+    <color name="warning_container">#FEF3C7</color>
+
+    <!-- Neutral Surfaces (Light) -->
+    <color name="window_background">#F8FAFC</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="surface_variant">#F1F5F9</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="card_stroke_focused">#6366F1</color>
+
+    <!-- Typography (Light) -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>
